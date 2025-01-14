@@ -1,4 +1,4 @@
- - [original repo](https://github.com/junyeong-nero/FALCO)
+ - [original repo](https://github.com/mapooon/BlendFace)
 
 
 1. Conda Environment
